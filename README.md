@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a Cybersecurity Analyst passionate about protecting systems, identifying vulnerabilities, and helping organizations strengthen their security posture. I enjoy continuous learning, security research, and building tools that contribute to a safer digital world.
+I'm Waheedah Olayiwola, a Cybersecurity Analyst passionate about protecting systems, identifying vulnerabilities, and helping organizations strengthen their security posture. I enjoy continuous learning, security research, and building tools that contribute to a safer digital world.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a Cybersecurity Analyst passionate about protecting systems, identifying vul
 
 - 🛡️ Cybersecurity Analyst
 - 🔍 Interested in Threat Detection, Incident Response, and Security Operations
-- 🌐 Exploring Cloud Security and Security Automation
+
 - 📚 Continuously learning new cybersecurity techniques and technologies
 - 🎯 Dedicated to improving cyber resilience through proactive security practices
 
@@ -22,6 +22,9 @@ I'm a Cybersecurity Analyst passionate about protecting systems, identifying vul
 
 ### Security
 - Threat Hunting
+- Cisco Networking
+- IP addressing
+- Subnetting
 - Vulnerability Assessment
 - Incident Response
 - Security Monitoring
@@ -30,27 +33,18 @@ I'm a Cybersecurity Analyst passionate about protecting systems, identifying vul
 - Security Awareness
 
 ### Tools & Platforms
-- Splunk
-- Microsoft Sentinel
 - Wireshark
 - Nmap
-- Burp Suite
-- Nessus
-- Metasploit
+- Cisco Packet tracer
+- wazuh
 - Kali Linux
 
 ### Cloud & Infrastructure
 - Microsoft Azure
 - AWS
-- Windows Server
 - Linux Administration
 - Active Directory
 
-### Programming & Scripting
-- Python
-- PowerShell
-- Bash
-- SQL
 
 ---
 
@@ -58,10 +52,8 @@ I'm a Cybersecurity Analyst passionate about protecting systems, identifying vul
 
 - Security Operations Center (SOC) Practices
 - Threat Intelligence
-- Digital Forensics
-- Cloud Security
-- Security Automation
-- Detection Engineering
+- Governance, Risk and compliance
+- Penetration Testing
 
 ---
 
@@ -81,9 +73,6 @@ A home lab environment for monitoring, detecting, and investigating security eve
 ### 🛡️ Vulnerability Assessment Reports
 Security assessments and remediation recommendations from lab environments.
 
-### 🤖 Security Automation Scripts
-Python and PowerShell scripts designed to automate repetitive security tasks.
-
 ### 📈 Threat Detection Rules
 Custom detection logic and security analytics for identifying suspicious activity.
 
@@ -91,11 +80,10 @@ Custom detection logic and security analytics for identifying suspicious activit
 
 ## 🎓 Certifications & Learning
 
-- CompTIA Security+
 - ISC2 Certified in Cybersecurity (CC)
 - Microsoft Security Certifications
 - TryHackMe Labs
-- Hack The Box Challenges
+  
 
 *Always learning and expanding my cybersecurity expertise.*
 
@@ -103,9 +91,9 @@ Custom detection logic and security analytics for identifying suspicious activit
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Add Your LinkedIn URL]
-- 🌐 Portfolio: [Add Your Portfolio URL]
-- 📧 Email: [Add Your Professional Email]
+- 💼 LinkedIn: www.linkedin.com/in/waheedah-olayiwola
+- 🌐 Portfolio: https://github.com/olayiwolawaheedah
+- 📧 Email: olayiwolawaheedah@gmail.com
 
 ---
 
